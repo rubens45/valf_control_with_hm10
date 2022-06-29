@@ -343,7 +343,7 @@ checkStateOfDevices() async {
                 isOnMessage: [0xA1, 0xCA, 0x01, 0x00, 0x00],
                 isOffMessage: [0xA1, 0xCA, 0x00, 0x00, 0x00],
                 checkStatusCommand: checkStatusCommandAux,
-                pathOfImage: 'images/aux.png',
+                pathOfImage: 'images/aux1.png',
                 pumpColor: auxColor,
                 switchColor: switchColor,
                 name: "AUX",
